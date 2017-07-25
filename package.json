@@ -1,0 +1,23 @@
+{
+  "name": "datefacts",
+  "version": "1.0.0",
+  "description": "build a script that gives you infomation about the current date and time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caep2015/Date_Facts_nodejs.git"
+  },
+  "author": "Carlota Pear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caep2015/Date_Facts_nodejs/issues"
+  },
+  "homepage": "https://github.com/caep2015/Date_Facts_nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "moment": "^2.18.1"
+  }
+}
